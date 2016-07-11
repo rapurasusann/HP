@@ -16,7 +16,7 @@ body{background-color:#F0FFFF
 }
 
 #gnav a.selected {
-  backgrpund: white;
+  background: white;
   color: darlgreen;
   font-weight: bold;
 }
