@@ -3,7 +3,11 @@ body{background-color:#F0FFFF
 }
 
 #gnav ul {
-  overflow: left;
+  overflow: hidden;
+}
+
+#gnav li{
+  float: left;
   width: 156px;
   border-right: white 1px solid;
   list-style-type:none;
